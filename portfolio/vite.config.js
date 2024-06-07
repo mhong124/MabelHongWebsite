@@ -8,5 +8,10 @@ export default defineConfig({
     modules: {
       localsConvention: "camelCase",
     }
-  }
+  },
+
+  base: "/<repository-name>/", // add repository name here
+  plugins: [react()],
 })
+
+
