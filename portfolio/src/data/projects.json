@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Using Machine Learning to Analyze and Predict Airbnb Prices",
+        "imageSrc": "projects/air.png",
+        "description": "Utilize Python and a Random Forest Regression model to predict AirBnB prices across various characteristics from a dataset of U.S AirBnB's.",
+        "skills": ["Python", "Pandas", "Sklearn"],
+        "source": "https://kyliegong.github.io/CMSC320Final/"
+    },
+    {
+        "title": "Using Tensorflow to Classify the Presence of Fracture in X-Ray",
+        "imageSrc": "projects/bone.png",
+        "description": "Utilize a sequential neural network model to predict whether X-Ray images of bones are fractured or not fractured.",
+        "skills": ["Python", "Tensorflow", "Sklearn"],
+        "source": "https://github.com/mhong124/FractureClassification"
+    },
+    {
+        "title": "Pokezon",
+        "imageSrc": "projects/poke.png",
+        "description": "Amazon, but for Pokemon! Allows users to search for Pokemon and add them to a cart, then checkout and become the proud owner their selected Pokemon.",
+        "skills": ["Javascript", "Node", "Express", "MongoDB"],
+        "source": "https://github.com/wendytu2022/Pokezon"
+    }
+]
