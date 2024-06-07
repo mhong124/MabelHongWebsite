@@ -1,4 +1,4 @@
-import styles from "./About.module.css"
+import styles from "./About.module.css";
 
 import { getImageUrl } from "../../u";
 
@@ -15,7 +15,7 @@ export const About = () => {
                     <div className = {styles.itemText}>
                         <h3>Computer Science and Math Student</h3>
                         <p>I am a passionate and determined student eager to learn about new and developing programs and softwares. 
-                            I have experience in Machine Learning, Statistics and Conditional Probability, and Web Development. </p>
+                            I have experience in Machine Learning, Statistics and Probability Theory, and Web Development. </p>
                     </div>
                 </li>
                 <li className = {styles.aboutItem}>

@@ -1,0 +1,42 @@
+[
+    {
+        "role": "Teaching Assistant",
+        "organization" : "UMD Department of CS",
+        "start": "August, 2024",
+        "end": "Ongoing",
+        "exp" : ["Overlook coursework related to CMSC335 Intro to Web Development", "Conduct office hours and grade and proctor Exams"],
+        "imageSrc": "history/ta.png"
+    },
+    {
+        "role": "Experience Director",
+        "organization" : "Technica",
+        "start": "December, 2024",
+        "end": "Ongoing",
+        "exp" : ["Manage a network of events and organize the hackathon's environment for 1000+ hackers", "Co-lead a team of 8 to ensure event planning and merchandise for the hackathon"],
+        "imageSrc": "history/technica.png"
+    },
+    {
+        "role": "Experience Organizer",
+        "organization" : "Technica",
+        "start": "March, 2023",
+        "end": "December, 2024",
+        "exp" : ["Coordinate details with outside companies and organizations to create mini events for 800+ expected hackers", "Facilitate bonding between Technica organizers and promote team curated events to hackers"],
+        "imageSrc": "history/technica.png"
+    },
+    {
+        "role": "Senior Advisor",
+        "organization" : "Taiwanese American Student Association",
+        "start": "May, 2024",
+        "end": "Ongoing",
+        "exp" : ["Assist sponsorship ordeals and communication with large companies using previous personal experience and connections"],
+        "imageSrc": "history/tasa.png"
+    },
+    {
+        "role": "Night Market Director",
+        "organization" : "Taiwanese American Student Association",
+        "start": "May, 2023",
+        "end": "May, 2024",
+        "exp" : ["Organize and direct the organization's largest event of the spring semester with an attendance of ~1400 students", "Connect with and secured $12,000 in sponsorships with large APIDA owned businesses and embassies"],
+        "imageSrc": "history/tasa.png"
+    }
+]

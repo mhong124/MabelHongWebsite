@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Java",
+        "imageSrc" : "skills/java.png"
+    },
+    {
+        "title": "C",
+        "imageSrc" : "skills/c.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc" : "skills/python.png"
+    },
+    {
+        "title": "R",
+        "imageSrc" : "skills/r.png"
+    },
+    {
+        "title": "SQL",
+        "imageSrc" : "skills/sql.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc" : "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc" : "skills/css.png"
+    },
+    {
+        "title": "Javascript",
+        "imageSrc" : "skills/js.png"
+    },
+    {
+        "title": "React",
+        "imageSrc" : "skills/react.png"
+    },
+    {
+        "title": "OCaml",
+        "imageSrc" : "skills/ocaml.png"
+    },
+    {
+        "title": "Tensorflow",
+        "imageSrc" : "skills/tensorflow.png"
+    },
+    {
+        "title": "Pandas",
+        "imageSrc" : "skills/pandas.png"
+    },
+    {
+        "title": "Figma",
+        "imageSrc" : "skills/figma.png"
+    }
+]
