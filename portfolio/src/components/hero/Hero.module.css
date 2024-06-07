@@ -27,7 +27,7 @@
     font-family: var(--font-poppins);
     background: linear-gradient(90deg, rgb(66, 109, 63,1 ) 70%, rgba(66, 109, 63,0 ) 120%);
     -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
+    /* -webkit-background-clip: text; */
 
 }
 
