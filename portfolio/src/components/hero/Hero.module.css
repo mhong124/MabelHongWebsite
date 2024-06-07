@@ -1,0 +1,121 @@
+@import "../../vars.css";
+
+.container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 49px;
+    z-index: 1;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: var(--text-green);
+    z-index: 1;
+}
+
+.title {
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 33px;
+    color: var(--text-green);
+    font-family: var(--font-poppins);
+    background: linear-gradient(90deg, rgb(66, 109, 63,1 ) 70%, rgba(66, 109, 63,0 ) 120%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+
+}
+
+.description {
+    font-size: 20px;
+    font-family: var(--text-poppins);
+    margin-bottom: 30px;
+    margin-right: 25px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: var(--color-primary);
+    color: var(--text-green);
+    border-radius: 100px;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 17px 26px;
+    box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
+    margin: 15px;
+}
+
+.me {
+    border-radius: 50%;
+    width: 50%;
+    z-index: 1;
+    border-width: 7px;
+    border-color: var(--color-primary);
+    border-style: solid;
+
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes floating  {
+    0% {
+        transform: translate(0,0px);
+    }
+
+    50% {
+        transform: translate(0, 10px);
+    }
+
+    100% {
+        transform: translate(0,-0px);
+    }
+}
+
+.topBlur {
+    position: absolute;
+    width: 50vw;
+    height: 50vw;
+    min-width: 350px;
+    min-width: 350px;
+    top: -128px;
+    left: 10vw;
+    border-radius: 764px;
+    background: rgba(219, 255, 209, 0.7);
+    filter: blur(100px);
+    z-index: 0;
+}
+
+.bottomBlur {
+    position: absolute;
+    width: 70vw;
+    height: 50vw;
+    min-width: 250px;
+    min-width: 350px;
+    top: 246px;
+    right: -25vw;
+    border-radius: 764px;
+    background: rgba(219, 255, 209, 0.7);
+    filter: blur(100px);
+    z-index: 0;
+}
+
+@media screen and (max-width: 830px) {
+    .container {
+        flex-direction: column-reverse;
+    }
+
+    .content {
+        align-items: center;
+    }
+
+    .title {
+        text-align: center;
+    }
+}
