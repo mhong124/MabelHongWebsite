@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "private": true,
+  "homepage": "https://mhong124.github.io/MabelHongWebsite/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
