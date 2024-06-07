@@ -9,9 +9,6 @@ export default defineConfig({
       localsConvention: "camelCase",
     }
   },
-
-  base: "/<repository-name>/", // add repository name here
-  plugins: [react()],
 })
 
 

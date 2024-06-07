@@ -1,17 +1,13 @@
 {
   "name": "portfolio",
   "private": true,
-  "homepage": "https://mhong124.github.io/MabelHongWebsite/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist", 
-    "postdeploy": "echo 'Deployment complete!'"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@fontsource/outfit": "^5.0.13",
