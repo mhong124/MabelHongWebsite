@@ -11,14 +11,15 @@ export const Card = ({project: {title, imageSrc, description, skills, source}}) 
         <ul className = {styles.skills}>
             {
                 skills.map((skill, id) => {
-                    <li key = {id} className = {styles.skill}>
+                    return (<li key = {id} className = {styles.skill}>
                         {skill}
                     </li>
+                    );
                 }) 
             }
         </ul>
         <div className = {styles.links}>
-            <a className = {styles.link} href = {source}>View Project</a>
+            <a className = {styles.link} href = {source} target="_blank">View Project</a>
         </div>
     </div>
   )

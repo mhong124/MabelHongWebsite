@@ -37,7 +37,7 @@
     align-items: center;
     text-align: center;
     justify-content: center;
-    gap: 11px;
+    gap: 15px;
 }
 
 .skillImageContainer {
@@ -48,6 +48,11 @@
     align-items: center;
     width: 185px;
     height: 185px;
+
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
 }
 
 .skillImageContainer img {
@@ -64,6 +69,7 @@
     font-size: 25px;
     font-family: var(--text-poppins);
     font-weight: 500;
+    margin-top: 20px;
 }
 
 .history {
@@ -124,7 +130,7 @@
     }
 
     50% {
-        transform: translate(0, 8px);
+        transform: translate(0, 6px);
     }
 
     100% {
