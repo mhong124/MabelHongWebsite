@@ -7,7 +7,7 @@ import {Card} from "./Card"
 
 export const Projects = () => {
   return (
-    <section className = {styles.container}>
+    <section className = {styles.container} id = "projects">
         <h2 className = {styles.title}>Projects</h2>
         <div className = {styles.projects}>
             {
