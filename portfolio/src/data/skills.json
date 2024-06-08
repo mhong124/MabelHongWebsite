@@ -50,5 +50,17 @@
     {
         "title": "Figma",
         "imageSrc" : "skills/figma.png"
+    },
+    {
+        "title": "Rust",
+        "imageSrc" : "skills/rust.png"
+    },
+    {
+        "title": "Node",
+        "imageSrc" : "skills/node.png"
+    },
+    {
+        "title": "Express",
+        "imageSrc" : "skills/express.png"
     }
 ]
