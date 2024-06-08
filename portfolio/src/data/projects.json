@@ -16,7 +16,7 @@
     {
         "title": "Pokezon",
         "imageSrc": "projects/poke.png",
-        "description": "Amazon, but for Pokemon! Allows users to search for Pokemon and add them to a cart, then checkout and become the proud owner their selected Pokemon.",
+        "description": "Amazon, but for Pokemon! Allows users to search for Pokemon and add them to a cart, then checkout and become the proud owner of their selected Pokemon.",
         "skills": ["Javascript", "Node", "Express", "MongoDB"],
         "source": "https://github.com/wendytu2022/Pokezon"
     }
