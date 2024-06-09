@@ -153,4 +153,8 @@
     .history {
         gap: 9px;
     }
+
+    .float {
+        display: none;
+    }
 }
