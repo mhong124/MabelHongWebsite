@@ -95,4 +95,8 @@
     .links {
         align-items: center;
     }
+
+    .float {
+        display: none;
+    }
 }
