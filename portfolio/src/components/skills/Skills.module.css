@@ -154,7 +154,7 @@
         gap: 9px;
     }
 
-    .float {
+    .historyItem img {
         display: none;
     }
 }
