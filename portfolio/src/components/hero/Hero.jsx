@@ -15,7 +15,7 @@ export const Hero = () => {
                 </p>
                 <a className = {styles.button} href = "mailto:mabelg.hong@gmail.com">
                     Contact Me <img className = {styles.icon} src = {getImageUrl("hero/email.png")} alt = "contact" width = "35" height = "35"></img></a>
-                <a className = {styles.button} href = "https://drive.google.com/file/d/1LR0qQSIgDt9aN8RFbKQFJQqRJcxcpfez/view" target="_blank">
+                <a className = {styles.button} href = "https://drive.google.com/file/d/1Cu4BeHi23dEC55Cx3yimkjtgFTi0fvva/view?usp=sharing" target="_blank">
                     View My Resume <img className = {styles.icon} src = {getImageUrl("hero/resume.png")} alt = "resume" width = "35" height = "35"></img></a>
             </div>
             <img className = {styles.me} src = {getImageUrl("hero/me.png")} alt = "Mabel Hong"></img>
