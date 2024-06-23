@@ -7,6 +7,13 @@
         "source": "https://kyliegong.github.io/CMSC320Final/"
     },
     {
+        "title": "Personal Photography Website",
+        "imageSrc": "projects/mabee.png",
+        "description": "Created a website using Typescript, React, and LightBox to showcase my photography journey and shots. Utilized a LightBox component in React to allow for an interactive gallery.",
+        "skills": ["React", "Typescript", "CSS"],
+        "source": "https://mabeestory.pages.dev/"
+    },
+    {
         "title": "Using Tensorflow to Classify the Presence of Fracture in X-Ray",
         "imageSrc": "projects/bone.png",
         "description": "Utilize a sequential neural network model to predict whether X-Ray images of bones are fractured or not fractured.",
