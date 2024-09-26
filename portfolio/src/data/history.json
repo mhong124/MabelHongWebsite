@@ -16,6 +16,14 @@
         "imageSrc": "history/technica.png"
     },
     {
+        "role": "Multimedia Director",
+        "organization" : "The Petal Project",
+        "start": "August, 2024",
+        "end": "Ongoing",
+        "exp" : ["Document and photograph social campaigns and events.", "Use Adobe Lightroom to enhance photos and professional transform images."],
+        "imageSrc": "history/petal.jpg"
+    },
+    {
         "role": "Experience Organizer",
         "organization" : "Technica",
         "start": "March, 2023",

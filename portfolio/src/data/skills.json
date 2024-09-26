@@ -62,5 +62,13 @@
     {
         "title": "Express",
         "imageSrc" : "skills/express.png"
+    },
+    {
+        "title": "Racket",
+        "imageSrc" : "skills/racket.png"
+    },
+    {
+        "title": "Matlab",
+        "imageSrc" : "skills/matlab.png"
     }
 ]
