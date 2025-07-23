@@ -1,4 +1,13 @@
 [
+    
+    {
+        "role": "Software Engineer Intern",
+        "organization" : "GEICO",
+        "start": "June, 2025",
+        "end": "Ongoing",
+        "exp" : ["Completing an in-house Workflow Editor and Admin UI for Business Process Management team using React.js, Typescript, and Node.js.", "Collaborating with .NET engineers to integrate backend services with the frontend application.", "Implementing unit tests and end-to-end tests to ensure code quality and reliability."],
+        "imageSrc": "history/geico.png" 
+    },
     {
         "role": "Teaching Assistant",
         "organization" : "UMD Department of CS",
